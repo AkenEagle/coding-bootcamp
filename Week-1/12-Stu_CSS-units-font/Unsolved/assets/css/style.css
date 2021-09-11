@@ -1,0 +1,22 @@
+section {
+  background-color: #fffacd;
+  font-family: "Lucida Sans", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+section h2 {
+  font-weight: bolder;
+  color: red;
+}
+
+#fact-1 {
+  font-weight: bold;
+}
+
+#fact-2 {
+  font-size: 24px;
+}
+
+#fact-3 {
+  line-height: 50px;
+}
