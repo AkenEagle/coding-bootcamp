@@ -12,9 +12,20 @@ const typeDefs = gql`
 `;
 
 const songs = [
+  // Sunflower
   {
     name: "Sunflower",
     artist: "Post Malone",
+  },
+  // One Dance
+  {
+    name: "One Dance",
+    artist: "Drake",
+  },
+  //   5% Tint
+  {
+    name: "5% Tint",
+    artist: "Travis Scott",
   },
 ];
 
